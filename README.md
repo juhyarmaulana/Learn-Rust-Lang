@@ -1,2 +1,2 @@
 # Learn-Rust-Lang
-Learn and practice RUST language
+Learn RUST language
